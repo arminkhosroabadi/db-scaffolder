@@ -1,0 +1,29 @@
+{
+  "name": "db-scaffolder",
+  "version": "1.1.0",
+  "description": "Instantly define tables and columns, say goodbye to manual queries. Supports popular databases, integrates with Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arminkhosroabadi/db-scaffolder.git"
+  },
+  "keywords": [
+    "database",
+    "mysql",
+    "db",
+    "schema",
+    "schema-builder",
+    "table-builder",
+    "column-builder",
+    "db-scaffolder"
+  ],
+  "author": "Armin Khosroabadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arminkhosroabadi/db-scaffolder/issues"
+  },
+  "homepage": "https://github.com/arminkhosroabadi/db-scaffolder#readme"
+}
